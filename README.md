@@ -22,6 +22,7 @@ some of the challenges, feel free to take a look.
 ### Easy
 
 1. [Hello World](./hello-world/README.md)  ⸱  [[Solution]](./hello-world/hello_world.go) ⸱ [[Tests]](./hello-world/hello_world_test.go)
+2. [Lasagna](./lasagna/README.md)  ⸱  [[Solution]](./lasagna/lasagna.go) ⸱ [[Tests]](./lasagna/lasagna_test.go)
 
 
 ### Medium
