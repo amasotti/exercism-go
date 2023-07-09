@@ -26,6 +26,12 @@ some of the challenges, feel free to take a look.
 3. [Weather Forecast](./weather-forecast/README.md)  ⸱  [[Solution]](./weather-forecast/weather_forecast.go) ⸱ [[Tests]](./weather-forecast/weather_forecast_test.go)
 4. [Annalyns infiltration](./annalyns-infiltration/README.md)  ⸱  [[Solution]](./annalyns-infiltration/annalyns_infiltration.go) ⸱ [[Tests]](./annalyns-infiltration/annalyns_infiltration_test.go)
 5. [Cars Assemble](./cars-assemble/README.md)  ⸱  [[Solution]](./cars-assemble/cars_assemble.go) ⸱ [[Tests]](./cars-assemble/cars_assemble_test.go)
+6. [Welcome to Tech Palace](./welcome-to-tech-palace/README.md)  ⸱  [[Solution]](./welcome-to-tech-palace/welcome_to_tech_palace.go) ⸱ [[Tests]](./welcome-to-tech-palace/welcome_to_tech_palace_test.go)
+7. [Party Robot](./party-robot/README.md)  ⸱  [[Solution]](./party-robot/party_robot.go) ⸱ [[Tests]](./party-robot/party_robot_test.go)
+
+
+
+
 
 ### Easy
 
