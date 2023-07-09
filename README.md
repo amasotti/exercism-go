@@ -30,6 +30,7 @@ some of the challenges, feel free to take a look.
 7. [Party Robot](./party-robot/README.md)  ⸱  [[Solution]](./party-robot/party_robot.go) ⸱ [[Tests]](./party-robot/party_robot_test.go)
 8. [Vehicle Purchase](./vehicle-purchase/README.md)  ⸱  [[Solution]](./vehicle-purchase/vehicle_purchase.go) ⸱ [[Tests]](./vehicle-purchase/vehicle_purchase_test.go)
 9. [Card Tricks](./card-tricks/README.md)  ⸱  [[Solution]](./card-tricks/card_tricks.go) ⸱ [[Tests]](./card-tricks/card_tricks_test.go)
+10. [Blackjack](./blackjack/README.md)  ⸱  [[Solution]](./blackjack/blackjack.go) ⸱ [[Tests]](./blackjack/blackjack_test.go)
 
 
 
