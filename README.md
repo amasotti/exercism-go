@@ -19,12 +19,17 @@ some of the challenges, feel free to take a look.
 
 ## Challenges
 
-### Easy
+### Warmup
 
 1. [Hello World](./hello-world/README.md)  ⸱  [[Solution]](./hello-world/hello_world.go) ⸱ [[Tests]](./hello-world/hello_world_test.go)
 2. [Lasagna](./lasagna/README.md)  ⸱  [[Solution]](./lasagna/lasagna.go) ⸱ [[Tests]](./lasagna/lasagna_test.go)
 3. [Weather Forecast](./weather-forecast/README.md)  ⸱  [[Solution]](./weather-forecast/weather_forecast.go) ⸱ [[Tests]](./weather-forecast/weather_forecast_test.go)
 4. [Annalyns infiltration](./annalyns-infiltration/README.md)  ⸱  [[Solution]](./annalyns-infiltration/annalyns_infiltration.go) ⸱ [[Tests]](./annalyns-infiltration/annalyns_infiltration_test.go)
+5. [Cars Assemble](./cars-assemble/README.md)  ⸱  [[Solution]](./cars-assemble/cars_assemble.go) ⸱ [[Tests]](./cars-assemble/cars_assemble_test.go)
+
+### Easy
+
+
 ### Medium
 
 
